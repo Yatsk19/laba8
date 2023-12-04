@@ -1,0 +1,4 @@
+C:\Users\Vitaly\source\repos\laba8\laba8\obj\Debug\net6.0\laba8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitaly\source\repos\laba8\laba8\obj\Debug\net6.0\laba8.AssemblyInfoInputs.cache
+C:\Users\Vitaly\source\repos\laba8\laba8\obj\Debug\net6.0\laba8.AssemblyInfo.cs
+C:\Users\Vitaly\source\repos\laba8\laba8\obj\Debug\net6.0\laba8.csproj.CoreCompileInputs.cache
